@@ -1,0 +1,73 @@
+{
+  "Benchmark Results - Deutsch-Jozsa - QSim": {
+    "backend_id": "dm_simulator",
+    "circuit_metrics": null,
+    "end_time": 1750068906.1882892,
+    "group_metrics": {
+      "avg_create_times": [
+        0.0
+      ],
+      "avg_depths": [
+        10.0
+      ],
+      "avg_elapsed_times": [
+        3130.751
+      ],
+      "avg_exec_creating_times": [
+        0.001
+      ],
+      "avg_exec_running_times": [
+        0.001
+      ],
+      "avg_exec_times": [
+        1780.722
+      ],
+      "avg_exec_validating_times": [
+        0.001
+      ],
+      "avg_fidelities": [
+        1.0
+      ],
+      "avg_hf_fidelities": [
+        1.0
+      ],
+      "avg_tr_depths": [
+        10.0
+      ],
+      "avg_tr_n2qs": [
+        4.5
+      ],
+      "avg_tr_xis": [
+        0.079
+      ],
+      "avg_xis": [
+        0.11
+      ],
+      "groups": [
+        "10"
+      ],
+      "job_ids": [
+        [
+          "0f6baf98-5f56-4a25-8e6d-9276cb09a98e",
+          "5129edd7-2fba-4224-9a2d-5c2e6584d674"
+        ]
+      ],
+      "std_create_times": [
+        0.0
+      ],
+      "std_elapsed_times": [
+        304.713
+      ],
+      "std_exec_times": [
+        649.856
+      ],
+      "std_fidelities": [
+        0.0
+      ],
+      "std_hf_fidelities": [
+        0.0
+      ]
+    },
+    "start_time": 1750065343.7614982
+  }
+}
